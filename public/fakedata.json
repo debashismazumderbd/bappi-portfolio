@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Royel Enfield",
+    "liveSite": "https://royel-enfield.netlify.app/",
+    "codeClient": "https://github.com/debashismazumderbd/royel-enfield-client-side",
+    "codeServer": "https://github.com/debashismazumderbd/royel-enfield-server-side",
+    "img1": "https://ibb.co/2Mv6bWT",
+    "img2": "https://ibb.co/BLHjmX7",
+    "img3": "https://ibb.co/Y8SHbkg",
+    "des1": "A fully responsive modern website where user can order cars and orders will be stored in database",
+    "des2": "Users can login with google authentication and email password authentication",
+    "des3": "Users has to be logged in to order and view details",
+    "des4": "Users can cancel order",
+    "des5": "Admin can confirm or cancel order from the admin dashboard",
+    "technologies": "ReactJS, React Routing, MongoDB atlas, netlify, heroku, firebase authentication, materialUI, swiperjs, REST API, nodejs, expressjs"
+  },
+  {
+    "name": "Tour Plan",
+    "liveSite": "https://tour-planing.netlify.app/",
+    "codeClient": "https://github.com/debashismazumderbd/tour-plan",
+    "codeServer": "https://github.com/debashismazumderbd/tourplan-server-side",
+    "img1": "https://i.ibb.co/XSkCvZG/doctors-portal-1.png",
+    "img2": "https://i.ibb.co/2gtYNbz/doctors-portal-2.png",
+    "img3": "https://i.ibb.co/zVbntjC/doctors-portal-3.png",
+    "des1": "A fully responsive modern website where user can get appointment and appointment will be stored in database",
+    "des2": "Users can login with google authentication and email password authentication",
+    "des3": "Users has to be logged in to get appointment and view appointments",
+    "des4": "Users can get appointment on their desired date",
+    "des5": "Admin can confirm or cancel appointment from the admin dashboard",
+    "technologies": "ReactJS, React Routing, MongoDB atlas, netlify, heroku, firebase authentication, materialUI, REST API, nodejs, expressjs"
+  },
+  {
+    "name": "Medicare",
+    "liveSite": "https://dmmedicare.netlify.app/",
+    "codeClient": "https://github.com/debashismazumderbd/dm-medicare",
+    "codeServer": "https://github.com/debashismazumderbd/dm-medicare-server-side",
+    "img1": "https://ibb.co/Qcfr6fR",
+    "img2": "https://ibb.co/M8wNDCD",
+    "img3": "https://ibb.co/k29xY10",
+    "des1": "A fully responsive modern website where user can order rides and orderes will be stored in database",
+    "des2": "Users can login with google authentication and email password authentication",
+    "des3": "Users has to be logged in to get appointment and view appointments",
+    "des4": "Users can cancel their orders",
+    "des5": "Users can request a order and order will be added in the home page",
+    "technologies": "ReactJS, React Routing, MongoDB atlas, heroku, firebase hosting, firebase authentication, React Bootstrap, REST API, nodejs, expressjs"
+  }
+]
